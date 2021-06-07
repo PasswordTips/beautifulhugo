@@ -269,7 +269,7 @@ img {
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #eee;
+    background: rgb(24, 4, 112);
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
