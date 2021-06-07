@@ -5,7 +5,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #FFF;
+  background: rgb(221, 57, 57);
   display: flex;
   flex-flow: column;
   height: 100vh;
